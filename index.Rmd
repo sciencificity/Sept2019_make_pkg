@@ -74,7 +74,7 @@ It's a _friendly_ way to distribute your code, or even _reuse_ it yourself!
               max-height = 90%; 
               display:block; 
               margin:auto" 
-              src="./sodapop.gif" 
+              src="./SodaPop.gif" 
               width = 350px/>
 
 ---
@@ -148,14 +148,14 @@ available::available("cluerumour")
 ```
 ]
 .pull-right[
-<img src = "./available.png" width = 320px>
+<img src = "./available.PNG" width = 320px>
 ]
 
 - Create a new R Project from the menu:
 
   `File -> New Project -> New Directory -> R Package` [Initialise with a git repo]
   
-  <img src = "./create_pkg.png" width = 300px>
+  <img src = "./create_pkg.PNG" width = 300px>
 ---
 class: inverse, center, middle
 # What have we got?
